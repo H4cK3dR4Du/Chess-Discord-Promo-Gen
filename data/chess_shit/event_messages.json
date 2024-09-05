@@ -1,0 +1,32 @@
+{
+    "customBotGameOverModal": {
+        "win": {
+            "message": "Congratulations! Here's a free month of Discord Nitro on us.",
+            "cta": {
+                "text": "Claim Discord Nitro",
+                "analyticsLabel": "wumpus_win",
+                "url": "https:\/\/promos.discord.gg\/"
+            },
+            "image": "https:\/\/images.chesscomfiles.com\/uploads\/v1\/custom_bot_game_over_modal\/455a010e-64a1-11ef-ad19-7d209b55022a.c9d8324b.384x384o.a4379ba7da81.png"
+        },
+        "draw": {
+            "message": "Congratulations! Here's a free month of Discord Nitro on us.",
+            "cta": {
+                "text": "Claim Discord Nitro",
+                "analyticsLabel": "wumpus_draw",
+                "url": "https:\/\/promos.discord.gg\/"
+            },
+            "image": "https:\/\/images.chesscomfiles.com\/uploads\/v1\/custom_bot_game_over_modal\/455a010e-64a1-11ef-ad19-7d209b55022a.8ef5a1c9.384x384o.4b47777ae92f.png"
+        },
+        "loss": {
+            "message": "Earn a free month of Discord Nitro by beating or drawing Wumpus.",
+            "image": "https:\/\/images.chesscomfiles.com\/uploads\/v1\/custom_bot_game_over_modal\/455a010e-64a1-11ef-ad19-7d209b55022a.53d75f8d.384x384o.3575ddaa8337.png"
+        },
+        "metadata": {
+            "vendorName": "Discord",
+            "vendorCampaignId": "4daf403e-66eb-11ef-96ab-ad0a069940ce",
+            "vendorCampaignName": "Discord",
+            "devchessAudienceName": "monthly_active_users"
+        }
+    }
+}
